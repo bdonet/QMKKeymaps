@@ -102,7 +102,7 @@
       "LSFT_T(KC_P0)",
       "TO(3)",
       "KC_LGUI",
-      "KC_NO",
+      "KC_PDOT",
       "KC_NO",
       "KC_NO"
     ],
@@ -352,7 +352,7 @@
       "LSFT(KC_P0)",
       "TO(7)",
       "KC_LGUI",
-      "KC_NO",
+      "KC_PDOT",
       "KC_NO",
       "KC_NO"
     ],
