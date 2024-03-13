@@ -251,7 +251,7 @@
       "KC_LCTL",
       "LSFT_T(KC_SPC)",
       "TO(6)",
-      "KC_NO",
+      "KC_LGUI",
       "KC_NO",
       "KC_NO",
       "KC_NO"
@@ -349,7 +349,7 @@
       "KC_LALT",
       "TO(4)",
       "KC_LCTL",
-      "LSFT(KC_P0)",
+      "LSFT_T(KC_P0)",
       "TO(7)",
       "KC_LGUI",
       "KC_PDOT",
